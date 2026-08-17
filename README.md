@@ -51,28 +51,6 @@ Generates structured emergency response plans based on predicted risks and prior
 Provides actionable information that can assist authorities in planning resources and emergency responses.
 
 
-##  Project Structure
-
-PRAVAAH/
-│
-├── sih_ml_layer/
-│   ├── risk_engine.py
-│   ├── vulnerability.py
-│   ├── emergency_planner.py
-│   ├── generate_all_plans.py
-│   ├── zone_data.json
-│   ├── risk_predictions.json
-│   ├── priority_predictions.json
-│   ├── emergency_plan.json
-│   └── ai_prompt.txt
-│
-├── flood_prediction/
-│   ├── predict.py
-│   └── train_model.py
-│
-└── PRAVAAH_Presentation.pptx
-```
-
 ---
 
 ##  Workflow
